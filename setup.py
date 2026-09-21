@@ -12,11 +12,11 @@ setup(
         "customtkinter>=5.2.0",
     ],
     python_requires=">=3.11",
-    author="WeUP Team / memarzade.dev",
+    author="WeUP Team / oxychain.dev",
     description="Enterprise-grade local file search engine",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/memarzade-dev/omnisearch-pro",
+    url="https://github.com/oxychain-dev/omnisearch-pro",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",

@@ -29,7 +29,7 @@ A high-performance, local file indexing and search system for Windows 11 that pr
 
 2. **Install**:
    ```bash
-   git clone https://github.com/memarzade-dev/omnisearch-pro.git
+   git clone https://github.com/oxychain-dev/omnisearch-pro.git
    cd omnisearch-pro
    pip install -r requirements.txt
    ```
@@ -212,5 +212,5 @@ Contributions welcome! Please:
 
 **Version**: 1.0.0  
 **Platform**: Windows 11  
-**Author**: WeUP Team / memarzade.dev  
-**Repository**: https://github.com/memarzade-dev/omnisearch-pro
+**Author**: WeUP Team / oxychain.dev  
+**Repository**: https://github.com/oxychain-dev/omnisearch-pro
